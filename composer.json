@@ -1,0 +1,15 @@
+{
+    "name": "daniele/daniele-riva-portfolio",
+    "autoload": {
+        "psr-4": {
+            "Daniele\\DanieleRivaPortfolio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniele",
+            "email": "danieleriva03@gmail.com"
+        }
+    ],
+    "require": {}
+}

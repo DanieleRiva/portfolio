@@ -1,0 +1,30 @@
+[
+    {
+        "type": "app",
+        "name": "",
+        "icon": "https://img.icons8.com/?size=100&id=kMRpiZM8hQO6&format=png&color=000000",
+        "iconAlt": "Gallery Icon",
+        "page": ""
+    },
+    {
+        "type": "app",
+        "name": "",
+        "icon": "https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000",
+        "iconAlt": "Instagram Icon",
+        "page": ""
+    },
+    {
+        "type": "app",
+        "name": "",
+        "icon": "https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000",
+        "iconAlt": "Twitter X Icon",
+        "page": ""
+    },
+    {
+        "type": "app",
+        "name": "",
+        "icon": "https://img.icons8.com/?size=100&id=kDoeg22e5jUY&format=png&color=000000",
+        "iconAlt": "Info Icon",
+        "page": ""
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "type": "empty"
+    },
+    {
+        "type": "empty"
+    },
+    {
+        "type": "empty"
+    },
+    {
+        "type": "empty"
+    },
+    {
+        "type": "empty"
+    },
+    {
+        "type": "empty"
+    },
+    {
+        "type": "empty"
+    },
+    {
+        "type": "empty"
+    },
+    {
+        "type": "empty"
+    },
+    {
+        "type": "empty"
+    },
+    {
+        "type": "empty"
+    },
+    {
+        "type": "empty"
+    },
+    {
+        "type": "empty"
+    },
+    {
+        "type": "empty"
+    },
+    {
+        "type": "app",
+        "name": "Instagram",
+        "icon": "https://img.icons8.com/?size=100&id=Mhl1TfJLdkh5&format=png&color=000000",
+        "iconAlt": "",
+        "page": ""
+    },
+    {
+        "type": "app",
+        "name": "Music",
+        "icon": "https://img.icons8.com/?size=100&id=81TSi6Gqk0tm&format=png&color=000000",
+        "iconAlt": "",
+        "page": ""
+    },
+    {
+        "type": "app",
+        "name": "Gallery",
+        "icon": "https://img.icons8.com/?size=100&id=kMRpiZM8hQO6&format=png&color=000000",
+        "iconAlt": "",
+        "page": ""
+    },
+    {
+        "type": "app",
+        "name": "Websites",
+        "icon": "https://img.icons8.com/?size=100&id=AdlO6fJAxqzp&format=png&color=000000",
+        "iconAlt": "",
+        "page": ""
+    },
+    {
+        "type": "app",
+        "name": "Github",
+        "icon": "https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000",
+        "iconAlt": "",
+        "page": ""
+    },
+    {
+        "type": "app",
+        "name": "Expertises",
+        "icon": "https://img.icons8.com/?size=100&id=13108&format=png&color=000000",
+        "iconAlt": "",
+        "page": ""
+    }
+]
