@@ -43,6 +43,8 @@ $bottom_cells = json_decode(file_get_contents("public/json/bottom.json"), true);
 
 <body>
 
+    <!-- <h1>github test push</h1> -->
+
     <main class="flex justify-center w-screen h-screen overflow-hidden font-poppins touch-none">
         <?php include('src/components/Phone/Phone.php'); ?>
     </main>
